@@ -1,4 +1,3 @@
-**alivadjid/alivadjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋 I'm a fullstack web developer
 
 - 🔭 I’m currently working on project with vue3 and [janus webrtc server](https://github.com/meetecho/janus-gateway)
