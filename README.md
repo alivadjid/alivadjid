@@ -17,4 +17,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alivadjid&show_icons=true&theme=radical)
+![Alivadjid's GitHub stats](https://github-readme-stats.vercel.app/api?username=alivadjid&show_icons=true&theme=radical)
